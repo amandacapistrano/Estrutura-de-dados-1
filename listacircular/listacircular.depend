@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684883488 source:/home/aluno/listacircular/listaDCircular.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDCircular.h"
+
+1684883488 /home/aluno/listacircular/listaDCircular.h
+

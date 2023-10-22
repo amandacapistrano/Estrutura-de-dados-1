@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680111935 source:c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 8 tda\atividade3\opmat.c
+	<stdio.h>
+	<stdlib.h>
+	"opmat.h"
+
+1680101649 c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 8 tda\atividade3\opmat.h
+
+1680111999 source:c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 8 tda\atividade3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opmat.h"
+

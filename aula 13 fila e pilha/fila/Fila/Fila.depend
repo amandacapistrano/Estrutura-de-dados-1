@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683835007 source:c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 13 fila e pilha\fila\fila\filad.c
+	<stdio.h>
+	<stdlib.h>
+	"filaD.h"
+
+1683835007 c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 13 fila e pilha\fila\fila\filad.h
+

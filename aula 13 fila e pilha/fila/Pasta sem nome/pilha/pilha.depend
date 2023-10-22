@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683754943 source:c:\users\aluno\downloads\fila\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaD.h"
+
+1683754845 c:\users\aluno\downloads\fila\pilha\pilhad.h
+
+1683754955 source:c:\users\aluno\downloads\fila\pilha\pilhad.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaD.h"
+

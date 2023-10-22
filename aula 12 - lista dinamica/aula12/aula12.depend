@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683125066 source:c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 12 - lista dinamica\aula12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1683119051 c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 12 - lista dinamica\aula12\listaligada.h
+
+1683121845 source:c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 12 - lista dinamica\aula12\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+

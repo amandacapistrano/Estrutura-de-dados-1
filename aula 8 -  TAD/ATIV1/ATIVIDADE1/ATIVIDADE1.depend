@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680047596 source:/home/aluno/Documentos/ATIVIDADE1/ATIV1.C
+	"ATIV1.h"
+
+1680047489 /home/aluno/Documentos/ATIVIDADE1/ATIV1.h
+
+1680047768 source:/home/aluno/Documentos/ATIVIDADE1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ATIV1.h"
+
+1680047862 source:/home/aluno/Documentos/ATIVIDADE1/ATIV1.c
+	"ATIV1.h"
+

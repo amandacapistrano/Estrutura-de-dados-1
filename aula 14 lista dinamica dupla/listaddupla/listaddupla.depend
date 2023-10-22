@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684346350 source:c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 14 lista dinamica dupla\listaddupla\listaddupla.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDDupla.h"
+
+1684346351 c:\users\acer\desktop\amanda\ads\2 semestre\estrutura de dados 1\aula 14 lista dinamica dupla\listaddupla\listaddupla.h
+
